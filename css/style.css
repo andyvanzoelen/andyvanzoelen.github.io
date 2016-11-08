@@ -1,0 +1,145 @@
+*{
+margin: 0;
+padding: 0;
+}
+Body {
+	 background-image: url("..//img/achtergrond.jpg");
+	 background-size: cover;
+   background-color: white;
+     color: white;
+     font-family: Arial ;
+     font-size: 20px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     margin-left: auto;
+     margin-right: auto;
+} 
+.logo{
+    float: right;
+    height: 75px;
+    left: 1297px;
+    position: fixed;
+    top: 98px;
+    width: 200px;
+}
+h1{
+    font-family:Cursive;
+    font-size:40px;
+    color:grey;
+    font-style:italic;
+    font-weight:normal;
+    text-shadow:4px 4px 8px grey;
+}
+img.spark{
+     width: 600px;
+    height: 600px;
+    float: right;
+ }
+div.dazlifa {
+    opacity: 0.4;
+    filter: alpha(opacity=60);
+}
+table.index {
+    background-color: black;
+    border-radius: 30px;
+    height: auto;
+    margin-left: 650px;
+    opacity: 0.9;
+    width: 600px;
+  	margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.moon{
+    opacity: 0.1;
+    filter: alpha(opacity=60);
+}
+img.spark {
+    border-radius: 318px 261px 0 324px;
+    bottom: -161px;
+    float: right;
+    height: 750px;
+    left: 1004px;
+    position: fixed;
+    width: 600px;
+}
+h1{
+    position: relative;
+	margin-left: 62px;
+	margin-top: 93px;
+}
+p1{
+	 font-family:Cursive;
+	 font-size:25px;
+     text-align: center;
+}
+p2{
+	 font-family:Cursive;
+	 font-size:25px;
+	 color: grey;
+     text-align: center;
+}
+img.gamelogotjes{
+	 width: 25px;
+	 height: 25px;
+	 }
+
+img.steamlogo{
+	 width: 50px;
+	 height: 50px;
+}
+img.instalogo{
+	 width: 48px;
+	 height: 48px;
+}
+a.linkhover:hover{
+color: orange;
+}
+a.linkhover{
+text-decoration: none;
+color: white;
+}
+button.playpause{
+background-color: #3D3C3A;
+border-radius: 10px;
+box-shadow:10px 1px 10px 10px #000;
+text-shadow:1px 1px 1px black;
+}
+video.video{
+border-radius: 10px;
+}
+img.mijncv{
+
+height: 490px;
+width: 400px;
+margin-left: 62px;
+border-radius: 20px;
+}
+img.notepad{
+height: 515px;
+width: 400px;
+margin-left: 62px;
+border-radius: 20px;
+}
+img.notepadwebsite{
+height: 225px;
+width: 400px;
+margin-left: 62px;
+border-radius: 20px;
+}
+img.arduino{
+width: 600px;
+height: 500px;
+border-radius: 20px;
+}
+img.voortgangscans{
+height: 700px;
+width: 590px;
+margin-left: 3px;
+border-radius: 20px;
+}
+p{
+  text-align: center;
+
+}
